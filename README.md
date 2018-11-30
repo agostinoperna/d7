@@ -16,7 +16,7 @@ To build, deploy and test your Dapp locally, you need to install the following t
   * Create and deploy your Dapp with this build framework for Ethereum.
 
 * **Ganache**: https://github.com/trufflesuite/ganache
-  * Devleopment Ethereum node.
+  * Development Ethereum node.
 
 ## Step 1. Clone the project
 
