@@ -14,6 +14,12 @@ To build, deploy and test your Dapp locally, you need to install the following t
 
 * **Truffle**: https://github.com/trufflesuite/truffle
   * Create and deploy your Dapp with this build framework for Ethereum.
+  
+  In this sample, we use the beta version of Truffle 5 that you can install in this way:
+  ```
+  npm uninstall -g truffle
+  npm install -g truffle@beta
+  ```
 
 * **Ganache**: https://github.com/trufflesuite/ganache
   * Development Ethereum node.
